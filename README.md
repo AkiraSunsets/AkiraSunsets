@@ -8,12 +8,6 @@ Paralelamente, curso bacharelado em Ciências da Computação na FAM - Faculdade
 
 ![img](https://i.gifer.com/Uf9O.gif)  ***Meu perfil no Linkedin:*** <https://www.linkedin.com/in/ketlyn-lorrayne-niza-de-araujo/>
 
-Minhas áreas de conhecimento são: 
-**Front**: HTML, CSS, Javascript<p>
-**Back-end**: PHP, MySQL <p>
-**Computação**: Hardware, Software <p>
-**Designer Gráfico**: Lightroom, Gimp, Inkscape<p>
-
 
 ### 🖥️ Tecnologias e Ferramentas: 
 <code><img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
