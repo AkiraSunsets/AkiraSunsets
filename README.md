@@ -25,4 +25,6 @@ Minhas áreas de conhecimento são:
 
 
 ***Obrigada por ver até aqui!***
+
+
 ![img](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDd4N2M4NjFqYWQ0ZzFnZzd3ZWVuYWNkb2t6dDRncXF1d3cwdnJlNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZwrLL6vegULEyuDNvv/giphy.gif)
