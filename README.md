@@ -22,5 +22,5 @@ Minhas áreas de conhecimento são:
 
 ***Obrigada por ver até aqui!***
 
+ <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG4zcmt2YmgzeXd2eHUyYTZzMmd3ODE1cWtocXNmY2J3NzZyZGN4ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1Aj4GdLC0amFRv10VT/giphy.gif" height=400 width=600/>
 
-![img](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDd4N2M4NjFqYWQ0ZzFnZzd3ZWVuYWNkb2t6dDRncXF1d3cwdnJlNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZwrLL6vegULEyuDNvv/giphy.gif)
