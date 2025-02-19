@@ -8,8 +8,6 @@ Paralelamente, curso bacharelado em Ciências da Computação na FAM - Faculdade
 
 ![img](https://i.gifer.com/Uf9O.gif)  ***Meu perfil no Linkedin:*** <https://www.linkedin.com/in/ketlyn-lorrayne-niza-de-araujo/>
 
----
-
 ### 🖥️ Tecnologias e Ferramentas: 
 <code><img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
 <code><img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
@@ -20,14 +18,8 @@ Paralelamente, curso bacharelado em Ciências da Computação na FAM - Faculdade
 <code><img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" title = "arduino"/></code>
 <code><img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/putty/putty-original.svg" title = "putty"/></code>
 
-
-          
-
-  
+---            
                   
-          
-
-
 ***Obrigada por ver até aqui!***
 
  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG4zcmt2YmgzeXd2eHUyYTZzMmd3ODE1cWtocXNmY2J3NzZyZGN4ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1Aj4GdLC0amFRv10VT/giphy.gif" height=400 width=600/>
