@@ -19,17 +19,9 @@ Paralelamente, curso bacharelado em Ciências da Computação na FAM - Faculdade
 <code><img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/putty/putty-original.svg" title = "putty"/></code>
            
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=akirasunsets&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=akirasunsets&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=akirasunsets&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
-<div>
-<a href="https://github.com/Dorivis">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akirasunsets&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=akirasunsets&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</a>
-</div>
+![](https://github-readme-stats.vercel.app/api?username=akirasunsets&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=akirasunsets&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=akirasunsets&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 --- 
 
