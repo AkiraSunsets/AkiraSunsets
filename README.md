@@ -25,9 +25,13 @@ Paralelamente, curso bacharelado em Ciências da Computação na FAM - Faculdade
 ![](https://github-readme-streak-stats.herokuapp.com/?user=akirasunsets&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=akirasunsets&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<img src="https://raw.githubusercontent.com/GiovanneRocha/AkiraSunsets/output/snake.svg" alt="Snake animation" />
+
 --- 
 
 ***Obrigada por ver até aqui!***
 
  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG4zcmt2YmgzeXd2eHUyYTZzMmd3ODE1cWtocXNmY2J3NzZyZGN4ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1Aj4GdLC0amFRv10VT/giphy.gif" height=400 width=600/>
+
+
 
