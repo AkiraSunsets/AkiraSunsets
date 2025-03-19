@@ -27,7 +27,7 @@ Paralelamente, curso bacharelado em Ciências da Computação na FAM - Faculdade
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/GiovanneRocha/AkiraSunsets/output/snake.svg" alt="Snake animation"/>
+<img src="https://raw.githubusercontent.com/AkiraSunsets/output/snake.svg" alt="Snake animation"/>
 
 ---
 
