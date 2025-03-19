@@ -27,9 +27,9 @@ Paralelamente, curso bacharelado em Ciências da Computação na FAM - Faculdade
 
 <br clear="both">
 
----[![](https://visitcount.itsvg.in/api?id=AkiraSunsets&icon=9&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=AkiraSunsets&icon=9&color=1)](https://visitcount.itsvg.in)
 
----
+
 
 ***Obrigada por ver até aqui!***
 
