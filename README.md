@@ -15,6 +15,7 @@ Paralelamente, curso bacharelado em Ciências da Computação na FAM - Faculdade
 <code><img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
 <code><img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/></code>
 <code><img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" title = "C"/></code>
+<code><img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" title = "c++"/></code>
 <code><img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title = "MYSQL"/></code>
 <code><img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" title = "PHP"/></code>
 <code><img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" title = "arduino"/></code>
@@ -22,7 +23,7 @@ Paralelamente, curso bacharelado em Ciências da Computação na FAM - Faculdade
 <code><img  width="40px" src="https://devicon-website.vercel.app/api/gimp/original.svg" title = "gimp"/></code>
 <code><img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" title = "canva"/></code>
 
-           
+          
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=akirasunsets&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=akirasunsets&theme=dracula&hide_border=false)<br/>
