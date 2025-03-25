@@ -42,14 +42,11 @@ Paralelamente, curso bacharelado em Ciências da Computação na FAM - Faculdade
 
 <br clear="both">
 
-<div style="text-align: center; font-size: 30px;">
-    **Obrigada por ver até aqui!**
-</div>
+---
 
-<div style="text-align: center;">
-    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG4zcmt2YmgzeXd2eHUyYTZzMmd3ODE1cWtocXNmY2J3NzZyZGN4ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1Aj4GdLC0amFRv10VT/giphy.gif" height="400" width="600"/>
-</div>
+**Obrigada por ver até aqui!**
 
+ <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG4zcmt2YmgzeXd2eHUyYTZzMmd3ODE1cWtocXNmY2J3NzZyZGN4ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1Aj4GdLC0amFRv10VT/giphy.gif" height=400 width=600/>
 
 
 
