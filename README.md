@@ -1,4 +1,3 @@
-# Olá! Bem-vindo ao meu GitHub! 🎮✨
 
 ![img](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXRoenY0dW53MjB1dHN5ZnV2aHlmdzBhNmNyZTRtNG1uZGdta2d1MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/s1VXy8TpCQIwM/giphy.gif) 🍄 **It's-a me, Ketlyn Lorrayne Niza de Araújo!!** 🍄
 
