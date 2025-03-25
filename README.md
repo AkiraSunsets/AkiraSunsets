@@ -41,7 +41,6 @@ Paralelamente, curso bacharelado em Ciências da Computação na FAM - Faculdade
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=akirasunsets&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <br clear="both">
-
 ---
 
 **Obrigada por ver até aqui!**
