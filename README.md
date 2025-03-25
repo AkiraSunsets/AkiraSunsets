@@ -8,7 +8,7 @@ Paralelamente, curso bacharelado em Ciências da Computação na FAM - Faculdade
 ![img](https://i.gifer.com/Uf9O.gif)  ***Meu perfil no Linkedin:*** <https://www.linkedin.com/in/ketlyn-lorrayne-niza-de-araujo/>
 ⠀⠀⠀⠀⠀
 
-# 🖥️ Tecnologias e Ferramentas: 
+## 🖥️ Tecnologias e Ferramentas: 
 <code><img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
 <code><img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
 <code><img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
@@ -20,7 +20,7 @@ Paralelamente, curso bacharelado em Ciências da Computação na FAM - Faculdade
 <code><img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/inkscape/inkscape-original.svg" title = "inkscape"/></code>
 <code><img  width="40px" src="https://devicon-website.vercel.app/api/gimp/original.svg" title = "gimp"/></code>
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=akirasunsets&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=akirasunsets&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=akirasunsets&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
