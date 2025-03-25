@@ -7,7 +7,7 @@ Tenho 19 anos, moro em Sumaré e atualmente estou cursando Desenvolvimento de Si
 Paralelamente, curso bacharelado em Ciências da Computação na FAM - Faculdade das Américas e trabalho na Bosch Brasil como jovem aprendiz em desenvolvimento de sistemas.
 
 ### 📬 **Conecte-se comigo no LinkedIn**:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ketlyn_Lorrayne-blue)](https://www.linkedin.com/in/ketlyn-lorrayne-niza-de-araujo/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ketlyn_Araújo-blue)](https://www.linkedin.com/in/ketlyn-lorrayne-niza-de-araujo/)
 ⠀⠀⠀⠀⠀
 
 ## 🖥️ Tecnologias e Ferramentas:
