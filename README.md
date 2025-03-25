@@ -1,6 +1,10 @@
-# 🍄 **It's-a me, Ketlyn Lorrayne Niza de Araújo!!** 🍄
+<div style="text-align: center; font-size: 30px;">
+    🍄 **It's-a me, Ketlyn Lorrayne Niza de Araújo!!** 🍄
+</div>
 
-Welcome to my world! 🎮✨
+<div style="text-align: center; font-size: 24px;">
+    Welcome to my world! 🎮✨
+</div>
 
 Tenho 19 anos, moro em Sumaré e atualmente estou cursando Desenvolvimento de Sistemas no Senai Roberto Mange. Possuo formação técnica em informática pela E. M. Dr. Leandro Franceschini, onde concluí o ensino médio integrado ao técnico (2020-2023).
 
