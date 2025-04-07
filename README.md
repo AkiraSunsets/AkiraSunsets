@@ -49,4 +49,5 @@ Paralelamente, curso bacharelado em Ciências da Computação na FAM - Faculdade
 
 
 
-<div class="tenor-gif-embed" data-postid="18859560" data-share-method="host" data-aspect-ratio="1.29555" data-width="100%"><a href="https://tenor.com/view/mario-nintendo-super-mario-bros-super-mario-allstars-all-stars-gif-18859560">Mario Nintendo GIF</a>from <a href="https://tenor.com/search/mario-gifs">Mario GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<div class="tenor-gif-embed" data-postid="18859560" data-share-method="host" data-aspect-ratio="1.29555" data-width="100%"><a href="https://tenor.com/view/mario-nintendo-super-mario-bros-super-mario-allstars-all-stars-gif-18859560">Mario Nintendo GIF</a>from <a href="https://tenor.com/search/mario-gifs">Mario GIFs</a></div>
+<script type="text/javascript" async src="https://tenor.com/embed.js"></script>
