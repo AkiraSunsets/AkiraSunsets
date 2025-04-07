@@ -1,4 +1,4 @@
-![mario!](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGpjeGQ5M2I1bXg4c2gwbjN6bXV2bTAzMzk0Zzhvc2RhZWhxeHNlcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9A1pWST8Ftmnvy8xF4/giphy.gif =400x200)
+
 # 🍄 **It's-a me, Ketlyn Lorrayne Niza de Araújo!!** 🍄
 Welcome to my world! 🎮✨
 
@@ -46,7 +46,4 @@ Paralelamente, curso bacharelado em Ciências da Computação na FAM - Faculdade
 
  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG4zcmt2YmgzeXd2eHUyYTZzMmd3ODE1cWtocXNmY2J3NzZyZGN4ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1Aj4GdLC0amFRv10VT/giphy.gif" height=400 width=600/>
 
-
-
-<div class="tenor-gif-embed" data-postid="18859560" data-share-method="host" data-aspect-ratio="1.29555" data-width="100%"><a href="https://tenor.com/view/mario-nintendo-super-mario-bros-super-mario-allstars-all-stars-gif-18859560">Mario Nintendo GIF</a>from <a href="https://tenor.com/search/mario-gifs">Mario GIFs</a></div>
-<script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+![mario!](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGpjeGQ5M2I1bXg4c2gwbjN6bXV2bTAzMzk0Zzhvc2RhZWhxeHNlcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9A1pWST8Ftmnvy8xF4/giphy.gif =400x200)
