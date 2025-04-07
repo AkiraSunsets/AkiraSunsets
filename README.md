@@ -1,4 +1,5 @@
-![mario](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGpjeGQ5M2I1bXg4c2gwbjN6bXV2bTAzMzk0Zzhvc2RhZWhxeHNlcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9A1pWST8Ftmnvy8xF4/giphy.gif=400x200)
+
+![mario!](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGpjeGQ5M2I1bXg4c2gwbjN6bXV2bTAzMzk0Zzhvc2RhZWhxeHNlcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9A1pWST8Ftmnvy8xF4/giphy.gif=400x200)
 # 🍄 **It's-a me, Ketlyn Lorrayne Niza de Araújo!!** 🍄
 Welcome to my world! 🎮✨
 
