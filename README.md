@@ -35,6 +35,7 @@ Paralelamente, curso bacharelado em Ciências da Computação na FAM - Faculdade
   <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" title="Inkscape"/></code>
   <code><img width="40px" src="https://devicon-website.vercel.app/api/gimp/original.svg" title="GIMP"/></code>
   <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" title="Canva"/></code>
+  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" title="Figma"/></code>
           
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=akirasunsets&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
