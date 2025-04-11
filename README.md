@@ -1,6 +1,6 @@
 ![mario](https://github.com/AkiraSunsets/AkiraSunsets/blob/main/mario.gif)
 
-# 🍄 **It's-a me, Ketlyn Lorrayne Niza de Araújo!!** 🍄
+# 🍄 **It's-a me, Ketlyn Araújo!!** 🍄
 Welcome to my world! 🎮✨
 
 Tenho 19 anos e atualmente estou cursando Desenvolvimento de Sistemas no Senai Roberto Mange. 
