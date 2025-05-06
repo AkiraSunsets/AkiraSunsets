@@ -3,7 +3,7 @@
 # 🍄 **It's-a me, Ketlyn Araújo!!** 🍄
 Welcome to my world! 🎮✨
 
-Tenho 19 anos e atualmente estou cursando Desenvolvimento de Sistemas no Senai Roberto Mange. 
+Atualmente estou cursando Desenvolvimento de Sistemas no Senai Roberto Mange. 
 Possuo formação técnica em informática pela E. M. Dr. Leandro Franceschini, onde concluí o ensino médio integrado ao técnico (2020-2023).
 Paralelamente, curso bacharelado em Ciências da Computação na FAM - Faculdade das Américas e trabalho na Bosch Brasil como jovem aprendiz em desenvolvimento de sistemas.
 
