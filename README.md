@@ -78,7 +78,6 @@ Sou movida por desafios que exigem criatividade, empatia e olhar crítico. Acred
 🎮 Obrigada por visitar meu perfil!
 
 ✨ Continue explorando, aprendendo e se divertindo com a tecnologia.  
-🏁 Sua princesa... está programando o próprio castelo. 👑
 
 Mamma mia! Até a próxima! 🍝💻
 
