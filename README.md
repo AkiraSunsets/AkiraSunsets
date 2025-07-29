@@ -3,9 +3,22 @@
 # 🍄 **It's-a me, Ketlyn Araújo!!** 🍄
 Welcome to my world! 🎮✨
 
-Atualmente estou cursando Desenvolvimento de Sistemas no Senai Roberto Mange. 
-Possuo formação técnica em informática pela E. M. Dr. Leandro Franceschini, onde concluí o ensino médio integrado ao técnico (2020-2023).
-Paralelamente, curso bacharelado em Ciências da Computação na FAM - Faculdade das Américas e trabalho na Bosch Brasil como jovem aprendiz em desenvolvimento de sistemas.
+Meu nome é Ketlyn Araújo, sou estudante de Ciência da Computação no Centro Universitário FAM e atualmente atuo como Aprendiz em Soluções Digitais na Bosch Brasil. Tenho paixão por transformar ideias em experiências digitais intuitivas, acessíveis e funcionais, com foco especial em desenvolvimento Front-End e UX/UI Design.
+
+Minha jornada na área de TI começou com uma formação técnica e foi se expandindo por meio de estágios, experiências em suporte técnico, participação em projetos como o sistema CORA e, mais recentemente, na vivência corporativa com foco em soluções digitais.
+
+Sou movida por desafios que exigem criatividade, empatia e olhar crítico. Acredito que a tecnologia é um meio poderoso de transformação, e minha missão é contribuir com soluções que sejam, acima de tudo, humanas.
+
+# 🚀 Sobre Mim
+---
+🎓 Bacharelanda em Ciência da Computação – Centro Universitário FAM (2025–2028)
+💼 Aprendiz em Soluções Digitais – Bosch Brasil
+👩‍💻 Desenvolvedora Front-End | UX/UI Designer
+💡 Coautora e responsável por Front-End e UX/UI do sistema CORA
+🧰 Experiência com HTML, CSS, JavaScript, prototipagem, design responsivo e acessibilidade
+🧠 Técnica em Informática pela E.M. Dr. Leandro Franceschini
+🌱 Curiosa por natureza, sempre buscando evoluir em tecnologia e design
+
 
 ### 📬 **Conecte-se comigo no LinkedIn**:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ketlyn_Araújo-blue)](https://www.linkedin.com/in/ketlyn-lorrayne-niza-de-araujo/)
