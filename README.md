@@ -75,11 +75,12 @@ Sou movida por desafios que exigem criatividade, empatia e olhar crítico. Acred
 
 ---
 
-🎮 _Thank you for playing!_
+🎮 Obrigada por visitar meu perfil!
 
-✨ Powered up by curiosity, code, and a little bit of 🍄
+✨ Continue explorando, aprendendo e se divertindo com a tecnologia.  
+🏁 Sua princesa... está programando o próprio castelo. 👑
 
-_Mamma mia!_ 🍝
+Mamma mia! Até a próxima! 🍝💻
 
  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG4zcmt2YmgzeXd2eHUyYTZzMmd3ODE1cWtocXNmY2J3NzZyZGN4ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1Aj4GdLC0amFRv10VT/giphy.gif" height=400 width=600/>
 
