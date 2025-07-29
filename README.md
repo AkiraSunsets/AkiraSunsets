@@ -10,7 +10,7 @@ Minha jornada na área de TI começou com uma formação técnica e foi se expan
 
 Sou movida por desafios que exigem criatividade, empatia e olhar crítico. Acredito que a tecnologia é um meio poderoso de transformação, e minha missão é contribuir com soluções que sejam, acima de tudo, humanas.
 
-# 🚀 Sobre Mim
+## 🚀 Sobre Mim
 - 🎓 Bacharelanda em Ciência da Computação – Centro Universitário FAM (2025–2028)
 - 💼 Aprendiz em Soluções Digitais – Bosch Brasil
 - 👩‍💻 Desenvolvedora Front-End | UX/UI Designer
@@ -21,7 +21,7 @@ Sou movida por desafios que exigem criatividade, empatia e olhar crítico. Acred
 
 ---
 
-### 📬 **Conecte-se comigo no LinkedIn**:
+## 📬 **Conecte-se comigo no LinkedIn**:
 
 <div align="left">
   <a href="mailto:ketlynlorraynendearaujo@gmail.com">
