@@ -76,8 +76,6 @@ Sou movida por desafios que exigem criatividade, empatia e olhar crítico. Acred
 
 🎮 _Thank you for playing!_
 
-🏁 _Your princess is in another repository..._
-
 ✨ Powered up by curiosity, code, and a little bit of 🍄
 
 _Mamma mia!_ 🍝
