@@ -10,13 +10,13 @@ Minha jornada na área de TI começou com uma formação técnica e foi se expan
 Sou movida por desafios que exigem criatividade, empatia e olhar crítico. Acredito que a tecnologia é um meio poderoso de transformação, e minha missão é contribuir com soluções que sejam, acima de tudo, humanas.
 
 # 🚀 Sobre Mim
-🎓 Bacharelanda em Ciência da Computação – Centro Universitário FAM (2025–2028)
-💼 Aprendiz em Soluções Digitais – Bosch Brasil
-👩‍💻 Desenvolvedora Front-End | UX/UI Designer
-💡 Coautora e responsável por Front-End e UX/UI do sistema CORA
-🧰 Experiência com HTML, CSS, JavaScript, prototipagem, design responsivo e acessibilidade
-🧠 Técnica em Informática pela E.M. Dr. Leandro Franceschini
-🌱 Curiosa por natureza, sempre buscando evoluir em tecnologia e design
+- 🎓 Bacharelanda em Ciência da Computação – Centro Universitário FAM (2025–2028)
+- 💼 Aprendiz em Soluções Digitais – Bosch Brasil
+- 👩‍💻 Desenvolvedora Front-End | UX/UI Designer
+- 💡 Coautora e responsável por Front-End e UX/UI do projeto CORA
+- 🧰 Experiência com HTML, CSS, JavaScript, prototipagem, design responsivo e acessibilidade
+- 🧠 Técnica em Informática pela E.M. Dr. Leandro Franceschini
+- 🌱 Curiosa por natureza, sempre buscando evoluir em tecnologia e design
 
 
 ### 📬 **Conecte-se comigo no LinkedIn**:
