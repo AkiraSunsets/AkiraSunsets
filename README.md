@@ -40,6 +40,7 @@ Sou movida por desafios que exigem criatividade, empatia e olhar crítico. Acred
   <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title="HTML5"/></code>
   <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title="CSS3"/></code>
   <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript"/></code>
+  <code><img width="40px" src="https://skillicons.dev/icons?i=react" title="React"/></code>
   <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP"/></code>
   <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL"/></code>
   <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python"/></code>
@@ -54,6 +55,9 @@ Sou movida por desafios que exigem criatividade, empatia e olhar crítico. Acred
   <code><img width="40px" src="https://devicon-website.vercel.app/api/gimp/original.svg" title="GIMP"/></code>
   <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" title="Canva"/></code>
   <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" title="Figma"/></code>
+  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" title="Trello"/></code>
+
+
           
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=akirasunsets&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
