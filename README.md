@@ -34,7 +34,6 @@ Sou movida por desafios que exigem criatividade, empatia e olhar crítico. Acred
   </a>
 </div>
 
----⠀
 
 ## 🖥️ Tecnologias e Ferramentas:
 
