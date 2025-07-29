@@ -1,5 +1,6 @@
 ![mario](https://github.com/AkiraSunsets/AkiraSunsets/blob/main/mario.gif)
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&letterSpacing=&duration=3500&pause=1000&color=F71DBF&width=435&lines=Guten+Tag%2C+Welcome+to+my+github!!+;My+name+is+Ketlyn+Ara%C3%BAjo!+%3C3" alt="Typing SVG" /></a>
 # 🍄 **It's-a me, Ketlyn Araújo!!** 🍄
 Welcome to my world! 🎮✨
 
