@@ -15,7 +15,7 @@ Sou movida por desafios que exigem criatividade, empatia e olhar crítico. Acred
 - 👩‍💻 Desenvolvedora Front-End | UX/UI Designer
 - 💡 Coautora e responsável por Front-End e UX/UI do projeto CORA
 - 🧰 Experiência com HTML, CSS, JavaScript, prototipagem, design responsivo e acessibilidade
-- 🧠 Técnica em Informática pela E.M. Dr. Leandro Franceschini
+- 🎓 Técnica em Informática pela E.M. Dr. Leandro Franceschini
 - 🌱 Curiosa por natureza, sempre buscando evoluir em tecnologia e design
 
 ---
