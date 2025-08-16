@@ -21,7 +21,7 @@ Sou movida por desafios que exigem criatividade, empatia e olhar crítico. Acred
 
 ---
 
-## 📬 **Conecte-se comigo no LinkedIn**:
+## 📬 **Conecte-se comigo**:
 
 <div align="left">
   <a href="mailto:ketlynlorraynendearaujo@gmail.com">
