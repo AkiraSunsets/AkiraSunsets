@@ -1,6 +1,5 @@
 ![mario](https://github.com/AkiraSunsets/AkiraSunsets/blob/main/mario.gif)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AkiraSunsets&label=Profile%20views&color=FF5C00&style=flat" alt="AkiraSunsets" /> </p>
 # 🍄 **It's-a me, Ketlyn Araújo!!** 
 
 Welcome to my world! 🎮✨
