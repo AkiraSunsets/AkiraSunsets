@@ -19,7 +19,6 @@ Sou movida por desafios que exigem criatividade, empatia e olhar crítico. Acred
 - 🎓 Técnica em Informática pela E.M. Dr. Leandro Franceschini
 - 🌱 Curiosa por natureza, sempre buscando evoluir em tecnologia e design
 
----
 
 ## 📬 **Conecte-se comigo**:
 
