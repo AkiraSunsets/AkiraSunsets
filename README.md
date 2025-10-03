@@ -14,7 +14,6 @@ Sou movida por desafios que exigem criatividade, empatia e olhar crítico. Acred
 - 🎓 Bacharelanda em Ciência da Computação – Centro Universitário FAM (2025–2028)
 - 💼 Aprendiz em Soluções Digitais – Bosch Brasil
 - 👩‍💻 Desenvolvedora Front-End | UX/UI Designer
-- 💡 Coautora e co-responsável por Front-End e UX/UI do projeto CORA
 - 🧰 Experiência com HTML, CSS, JavaScript, prototipagem, design responsivo e acessibilidade
 - 🎓 Técnica em Informática pela E.M. Dr. Leandro Franceschini
 - 🌱 Curiosa por natureza, sempre buscando evoluir em tecnologia e design
