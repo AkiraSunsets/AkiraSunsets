@@ -16,6 +16,7 @@ Sou movida por desafios que exigem criatividade, empatia e olhar crítico. Acred
 - 👩‍💻 Desenvolvedora Front-End | UX/UI Designer
 - 🧰 Experiência com HTML, CSS, JavaScript, prototipagem, design responsivo e acessibilidade
 - 🎓 Técnica em Informática pela E.M. Dr. Leandro Franceschini
+- 🎓 Técnica em Suporte Técnico pela MicroPro Sumaré
 - 🌱 Curiosa por natureza, sempre buscando evoluir em tecnologia e design
 
 
