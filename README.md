@@ -11,10 +11,10 @@ Minha jornada na área de TI começou com uma formação técnica e foi se expan
 Sou movida por desafios que exigem criatividade, empatia e olhar crítico. Acredito que a tecnologia é um meio poderoso de transformação, e minha missão é contribuir com soluções que sejam, acima de tudo, humanas.
 
 ## 🚀 **Sobre Mim**:
-- 🎓 Bacharelanda em Ciência da Computação – Centro Universitário FAM (2025–2028)
 - 💼 Aprendiz em Soluções Digitais – Bosch Brasil
 - 👩‍💻 Desenvolvedora Front-End | UX/UI Designer
 - 🧰 Experiência com HTML, CSS, JavaScript, prototipagem, design responsivo e acessibilidade
+- 🎓 Bacharelanda em Ciência da Computação – Centro Universitário FAM (2025–2028)
 - 🎓 Técnica em Informática pela E.M. Dr. Leandro Franceschini
 - ⚙️ Técnica em Suporte Técnico pela MicroPro Sumaré
 - 🌱 Curiosa por natureza, sempre buscando evoluir em tecnologia e design
