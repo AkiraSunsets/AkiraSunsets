@@ -16,7 +16,7 @@ Sou movida por desafios que exigem criatividade, empatia e olhar crítico. Acred
 * **`[Classe]`** Desenvolvedora Front-End | UX/UI Designer
 * **`[Level]`** Bacharelanda em Ciência da Computação – Centro Universitário FAM (2025–2028)
 * **`[Tutorial Concluído]`** Técnica em Informática (E.M. Dr. Leandro Franceschini) e Técnica em Suporte Técnico (MicroPro Sumaré)
-* **`[Traço Passivo]`** Curiosa por natureza, sempre buscando evoluir em tecnologia e design.
+* **`[Características]`** Curiosa por natureza, sempre buscando evoluir em tecnologia e design.
 
 ## 🍄 Power-Ups (Meu Inventário)
 
