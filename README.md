@@ -4,15 +4,11 @@
 
 Meu nome é Ketlyn Araújo, sou estudante de Ciência da Computação no Centro Universitário FAM e atualmente atuo como Aprendiz em Soluções Digitais na Bosch Brasil. Tenho paixão por transformar ideias em experiências digitais intuitivas, acessíveis e funcionais, com foco especial em desenvolvimento Front-End e UX/UI Design.
 
----
-
 ## 🎯 Minha Missão Principal
 
 Minha jornada na área de TI começou com uma formação técnica e foi se expandindo por meio de estágios, experiências em suporte técnico e, mais recentemente, na vivência corporativa com foco em soluções digitais.
 
 Sou movida por desafios que exigem criatividade, empatia e olhar crítico. Acredito que a tecnologia é um meio poderoso de transformação, e minha missão é contribuir com soluções que sejam, acima de tudo, humanas.
-
----
 
 ## 🕹️ Player Stats
 
@@ -21,8 +17,6 @@ Sou movida por desafios que exigem criatividade, empatia e olhar crítico. Acred
 * **`[Level]`** Bacharelanda em Ciência da Computação – Centro Universitário FAM (2025–2028)
 * **`[Tutorial Concluído]`** Técnica em Informática (E.M. Dr. Leandro Franceschini) e Técnica em Suporte Técnico (MicroPro Sumaré)
 * **`[Traço Passivo]`** Curiosa por natureza, sempre buscando evoluir em tecnologia e design.
-
----
 
 ## 🍄 Power-Ups (Meu Inventário)
 
@@ -57,8 +51,6 @@ Sou movida por desafios que exigem criatividade, empatia e olhar crítico. Acred
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" title="PyCharm"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" title="Trello"/></code>
 
----
-
 ## 📊 Meu Score (GitHub Stats)
 
 <p align="center">
@@ -71,8 +63,6 @@ Sou movida por desafios que exigem criatividade, empatia e olhar crítico. Acred
 </p>
 
 <br clear="both">
-
----
 
 ## 🌐 Warp Zone (Conecte-se comigo)
 
@@ -87,8 +77,6 @@ Sou movida por desafios que exigem criatividade, empatia e olhar crítico. Acred
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </div>
-
----
 
 🎮 Obrigada por visitar meu perfil!
 
