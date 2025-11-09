@@ -77,6 +77,8 @@ Sou movida por desafios que exigem criatividade, empatia e olhar crítico. Acred
   </a>
 </div>
 
+---
+
 🎮 Obrigada por visitar meu perfil!
 
 ✨ Continue explorando, aprendendo e se divertindo com a tecnologia.  
