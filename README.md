@@ -27,6 +27,7 @@ Sou movida por desafios que exigem criatividade, empatia e olhar crítico. Acred
 <code><img width="40px" src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript"/></code>
 <code><img width="40px" src="https://skillicons.dev/icons?i=react" title="React"/></code>
+<code><img width="40px" src="https://skillicons.dev/icons?i=vite" title="Vite"/></code>
 
 ### ⚙️ Back-End & Dados
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python"/></code>
