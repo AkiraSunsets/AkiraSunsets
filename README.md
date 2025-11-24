@@ -26,9 +26,10 @@ Sou movida por desafios que exigem criatividade, empatia e olhar crítico. Acred
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title="CSS3"/></code>
 <code><img width="40px" src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" title="Bootstrap"/></code>
 <code><img width="40px" src="https://skillicons.dev/icons?i=react" title="React"/></code>
 <code><img width="40px" src="https://skillicons.dev/icons?i=vite" title="Vite"/></code>
-
+          
 ### ⚙️ Back-End & Dados
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python"/></code>
 <code><img width="40px" src="https://skillicons.dev/icons?i=django" title="Django"/></code>
@@ -51,8 +52,9 @@ Sou movida por desafios que exigem criatividade, empatia e olhar crítico. Acred
 ### 🗂️ IDEs & Organização
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" title="IntelliJ IDEA"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" title="PyCharm"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" title="VSCode"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" title="Trello"/></code>
-
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" title="Notion"/></code>           
 
 ## 📊 Meu Score (GitHub Stats)
 
