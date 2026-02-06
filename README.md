@@ -61,7 +61,7 @@ Sou movida por desafios que exigem criatividade, empatia e olhar crítico. Acred
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=AkiraSunsets&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+      <img src="[https://github-readme-stats.vercel.app/api?username=AkiraSunsets&show_icons=true&theme=dracula&include_all_commits=true&count_private=true](https://github-readme-stats.vercel.app/api?username=AkiraSunsets&theme=dracula&show_icons=true)" alt="GitHub Stats" />
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkiraSunsets&layout=compact&theme=dracula" alt="Top Languages" />
