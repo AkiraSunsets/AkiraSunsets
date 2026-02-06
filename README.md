@@ -82,6 +82,14 @@ Sou movida por desafios que exigem criatividade, empatia e olhar crítico. Acred
 
 ---
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AkiraSunsets/AkiraSunsets/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AkiraSunsets/AkiraSunsets/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AkiraSunsets/AkiraSunsets/output/pacman-contribution-graph.svg">
+</picture>
+
+
+
 🎮 Obrigada por visitar meu perfil!
 
 ✨ Continue explorando, aprendendo e se divertindo com a tecnologia.  
