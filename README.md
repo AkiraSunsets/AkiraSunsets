@@ -83,23 +83,12 @@ Sou movida por desafios que exigem criatividade, empatia e olhar crítico. Acred
 
 ## 📊 Meu Score (GitHub Stats)
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkiraSunsets&theme=dracula&hide_border=false" alt="Streak Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats-git-masterhstic.vercel.app/api/top-langs/?username=AkiraSunsets&theme=dracula&hide_border=false&layout=compact" alt="Top Languages" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-stats-git-masterhstic.vercel.app/api?username=AkiraSunsets&show_icons=true&theme=dracula&count_private=true" alt="General Stats" />
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akirasunsets&theme=dracula&hide_border=false" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akirasunsets&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="35%"/>
+</p>
+
+<br clear="both">
 
 ---
 
