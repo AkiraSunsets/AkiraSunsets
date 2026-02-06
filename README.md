@@ -58,13 +58,16 @@ Sou movida por desafios que exigem criatividade, empatia e olhar crítico. Acred
 
 ## 📊 Meu Score (GitHub Stats)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akirasunsets&theme=dracula&hide_border=false" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akirasunsets&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="35%"/>
-</p>
-
-<br clear="both">
-
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=AkiraSunsets&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkiraSunsets&layout=compact&theme=dracula" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
 ## 🌐 Warp Zone (Conecte-se comigo)
 
@@ -88,9 +91,7 @@ Sou movida por desafios que exigem criatividade, empatia e olhar crítico. Acred
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AkiraSunsets/AkiraSunsets/output/pacman-contribution-graph.svg">
 </picture>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AkiraSunsets&theme=dracula&column=7&margin-w=15&no-bg=true" alt="trophies" />
-</p>
+
 
 
 🎮 Obrigada por visitar meu perfil!
