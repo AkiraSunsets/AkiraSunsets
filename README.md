@@ -88,6 +88,9 @@ Sou movida por desafios que exigem criatividade, empatia e olhar crítico. Acred
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AkiraSunsets/AkiraSunsets/output/pacman-contribution-graph.svg">
 </picture>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AkiraSunsets&theme=dracula&column=7&margin-w=15&no-bg=true" alt="trophies" />
+</p>
 
 
 🎮 Obrigada por visitar meu perfil!
