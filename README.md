@@ -82,17 +82,6 @@ Sou movida por desafios que exigem criatividade, empatia e olhar crítico. Acred
 
 ---
 
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkiraSunsets&theme=dracula" alt="Streak" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkiraSunsets&theme=dracula&layout=compact" alt="Top Langs" />
-    </td>
-  </tr>
-</table>
-
 🎮 Obrigada por visitar meu perfil!
 
 ✨ Continue explorando, aprendendo e se divertindo com a tecnologia.  
