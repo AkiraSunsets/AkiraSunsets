@@ -56,19 +56,6 @@ Sou movida por desafios que exigem criatividade, empatia e olhar crítico. Acred
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" title="Trello"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" title="Notion"/></code>           
 
-## 📊 Meu Score (GitHub Stats)
-
-<table align="center">
-  <tr>
-    <td>
-      <img src="[https://github-readme-stats.vercel.app/api?username=AkiraSunsets&show_icons=true&theme=dracula&include_all_commits=true&count_private=true](https://github-readme-stats.vercel.app/api?username=AkiraSunsets&theme=dracula&show_icons=true)" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkiraSunsets&layout=compact&theme=dracula" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
-
 ## 🌐 Warp Zone (Conecte-se comigo)
 
 <div align="left">
