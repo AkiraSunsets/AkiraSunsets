@@ -91,14 +91,4 @@ Mamma mia! Até a próxima! 🍝💻
  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG4zcmt2YmgzeXd2eHUyYTZzMmd3ODE1cWtocXNmY2J3NzZyZGN4ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1Aj4GdLC0amFRv10VT/giphy.gif" height=400 width=600/>
 
 
-## 🐍 Contribution Activity
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AkiraSunsets/AkiraSunsets/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AkiraSunsets/AkiraSunsets/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AkiraSunsets/AkiraSunsets/output/pacman-contribution-graph.svg" width="100%">
-</picture>
-
-
-<br clear="both">
-<br clear="both">
