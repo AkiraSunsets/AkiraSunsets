@@ -92,12 +92,6 @@ Sou movida por desafios que exigem criatividade, empatia e olhar crítico. Acred
 
 ---
 
-## 🆙 Nível de Experiência (2026)
-**Progresso da Quest Atual:**
-![Progresso](https://geps.dev/progress/65?dangerColor=800000&warningColor=ff0000&successColor=00ff00)
-*65% do caminho para se tornar uma Senior Front-End!*
-
-
 🎮 Obrigada por visitar meu perfil!
 
 ✨ Continue explorando, aprendendo e se divertindo com a tecnologia.  
