@@ -28,6 +28,7 @@ Sou movida por desafios que exigem criatividade, empatia e olhar crítico. Acred
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" title="Bootstrap"/></code>
 <code><img width="40px" src="https://skillicons.dev/icons?i=react" title="React"/></code>
+<code><img width="40px" src="https://skillicons.dev/icons?i=electron" title="Electron"/></code>
 <code><img width="40px" src="https://skillicons.dev/icons?i=vite" title="Vite"/></code>
           
 ### ⚙️ Back-End & Dados
@@ -45,6 +46,7 @@ Sou movida por desafios que exigem criatividade, empatia e olhar crítico. Acred
 
 ### 🎨 Design & Prototipagem
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/blender.svg" title="Blender"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" title="Canva"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" title="Inkscape"/></code>
 <code><img width="40px" src="https://devicon-website.vercel.app/api/gimp/original.svg" title="GIMP"/></code>
