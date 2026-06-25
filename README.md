@@ -12,10 +12,10 @@ Sou movida por desafios que exigem criatividade, empatia e olhar crítico. Acred
 
 ## 🕹️ Player Stats
 
-* **`[Missão Atual]`** Aprendiz em Soluções Digitais – Bosch Brasil
+* **`[Missão Atual]`** Meio oficial em Soluções Digitais – Bosch Brasil
 * **`[Classe]`** Desenvolvedora Front-End | UX/UI Designer
-* **`[Level]`** Bacharelanda em Ciência da Computação – Centro Universitário FAM (2025–2028)
-* **`[Tutorial Concluído]`** Técnica em Informática (E.M. Dr. Leandro Franceschini) e Técnica em Suporte Técnico (MicroPro Sumaré)
+* **`[Level]`** Bacharelanda em Ciência da Computação – Centro Universitário FAM (2025–2028) 
+* **`[Tutorial Concluído]`** Técnica em Informática (E.M. Dr. Leandro Franceschini), Técnica em Suporte Técnico (MicroPro Sumaré) e Técnica em Desenvolvimento de Sistemas (SENAI Roberto Mange)
 * **`[Características]`** Curiosa por natureza, sempre buscando evoluir em tecnologia e design.
 
 
