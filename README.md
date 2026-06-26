@@ -19,14 +19,6 @@ Tenho paixão por transformar ideias em experiências digitais **intuitivas, ace
 
 ---
 
-## 🎯 Jornada Profissional
-
-Minha jornada na área de TI começou com uma formação técnica e foi se expandindo por meio de estágios, experiências em suporte técnico e, mais recentemente, na vivência corporativa com foco em soluções digitais.
-
-Sou movida por desafios que exigem **criatividade, empatia e olhar crítico**. Acredito que a tecnologia é um meio poderoso de transformação, e minha missão é contribuir com soluções que sejam, acima de tudo, **humanas**.
-
----
-
 ## 🕹️ Player Stats
 
 | Atributo | Status |
@@ -36,17 +28,6 @@ Sou movida por desafios que exigem **criatividade, empatia e olhar crítico**. A
 | **📚 Level** | Bacharelanda em Ciência da Computação – **FAM** (2025–2028) |
 | **🏆 Experiência** | Técnica em Informática, Suporte Técnico e Desenvolvimento de Sistemas |
 | **⚡ Características** | Curiosa, criativa, sempre evoluindo em tecnologia e design |
-
----
-
-## 🎮 Projetos em Destaque
-
-| 🎯 Projeto | 💻 Tecnologias | 📊 Status |
-|-----------|---------------|----------|
-| **Greenbelt Store** | Flutter, Dart, REST APIs | ✅ Completo |
-| **Portfólio Pessoal** | Flutter, UI/UX Design | ✅ Completo |
-| **Meu GitHub Profile** | HTML, CSS, GitHub Actions | 🔄 Em Evolução |
-| **Próximos Desafios** | React, TypeScript, Web3 | 🚀 Em Planejamento |
 
 ---
 
@@ -96,27 +77,11 @@ Sou movida por desafios que exigem **criatividade, empatia e olhar crítico**. A
 ![Inkscape](https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=inkscape&logoColor=white)
 ![GIMP](https://img.shields.io/badge/GIMP-CCCCCC?style=for-the-badge&logo=gimp&logoColor=black)
 
-</div>
+</div>---
 
-### 🗂️ IDEs & Organização
-<div align="center">
+## 📜 Formação
 
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-
-</div>
-
----
-
-## 📜 Certificações & Cursos
-
-✅ **Técnica em Informática** – E.M. Dr. Leandro Franceschini  
-✅ **Técnica em Suporte Técnico** – MicroPro Sumaré  
-✅ **Técnica em Desenvolvimento de Sistemas** – SENAI Roberto Mange  
-🎓 **Bacharelanda em Ciência da Computação** – Centro Universitário FAM (2025–2028)
+✅ Técnica em Informática | ✅ Suporte Técnico | ✅ Desenvolvimento de Sistemas | 🎓 Bacharelanda FAM
 
 ---
 
@@ -141,13 +106,9 @@ Sou movida por desafios que exigem **criatividade, empatia e olhar crítico**. A
 
 ---
 
-## 🗺️ Próximas Missões 🚀
+## 🗺️ Próximas Missões
 
-- 🎯 Aprofundar em **TypeScript** e **React Advanced**
-- 🎯 Explorar **Web3** & **Blockchain**
-- 🎯 Contribuir mais em **Open Source**
-- 🎯 Especializando em **Product Design**
-- 🎯 Mentoria para novos desenvolvedores
+🎯 TypeScript | 🎯 React Advanced | 🎯 Open Source | 🎯 Product Design
 
 ---
 
