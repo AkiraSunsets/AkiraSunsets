@@ -23,11 +23,10 @@ Tenho paixão por transformar ideias em experiências digitais **intuitivas, ace
 
 | Atributo | Status |
 |----------|--------|
-| **🎯 Missão Atual** | Aprendiz em Soluções Digitais – **Bosch Brasil** |
+| **🎯 Missão** | Aprendiz em Soluções Digitais – **Bosch Brasil** |
 | **👾 Classe** | Desenvolvedora Front-End \| UX/UI Designer |
-| **📚 Level** | Bacharelanda em Ciência da Computação – **FAM** (2025–2028) |
-| **🏆 Experiência** | Técnica em Informática, Suporte Técnico e Desenvolvimento de Sistemas |
-| **⚡ Características** | Curiosa, criativa, sempre evoluindo em tecnologia e design |
+| **📚 Level** | Bacharelanda em Ciência da Computação – **FAM** |
+| **⚡ Foco** | Experiências digitais intuitivas e acessíveis |
 
 ---
 
@@ -77,11 +76,23 @@ Tenho paixão por transformar ideias em experiências digitais **intuitivas, ace
 ![Inkscape](https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=inkscape&logoColor=white)
 ![GIMP](https://img.shields.io/badge/GIMP-CCCCCC?style=for-the-badge&logo=gimp&logoColor=black)
 
-</div>---
+</div>
+
+---
 
 ## 📜 Formação
 
 ✅ Técnica em Informática | ✅ Suporte Técnico | ✅ Desenvolvimento de Sistemas | 🎓 Bacharelanda FAM
+
+---
+
+## 🎮 Projetos em Destaque
+
+| 🎯 Projeto | 💻 Tecnologias | 📊 Status |
+|-----------|---------------|----------|
+| **Greenbelt Store** | Flutter, Dart, REST APIs | ✅ Completo |
+| **Portfólio Pessoal** | Flutter, UI/UX Design | ✅ Completo |
+| **Portfólio Web** | HTML, CSS, JavaScript | 🚀 Novo |
 
 ---
 
