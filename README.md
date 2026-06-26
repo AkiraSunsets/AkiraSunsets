@@ -129,7 +129,7 @@ Sou estudante de **Ciência da Computação** no Centro Universitário FAM e atu
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>](mailto:ketlynlorraynendearaujo@gmail.com)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>](https://www.linkedin.com/in/ketlyn-lorrayne-niza-de-araujo/)
 [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>](https://github.com/AkiraSunsets)
-[<img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio"/>](https://seu-portfolio.com)
+[<img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio"/>](https://akira-sunsets-portfolio.vercel.app/)
 
 </div>
 
