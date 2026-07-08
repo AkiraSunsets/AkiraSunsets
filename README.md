@@ -7,7 +7,6 @@
 ![Front-End](https://img.shields.io/badge/Front--End-Developer-blue?style=flat-square&logo=react&logoColor=white)
 ![UX/UI](https://img.shields.io/badge/UX%2FUI-Designer-ff69b4?style=flat-square&logo=figma&logoColor=white)
 ![Bosch](https://img.shields.io/badge/Bosch-Brasil-red?style=flat-square&logo=bosch&logoColor=white)
-![Open to Opportunities](https://img.shields.io/badge/Open%20to-Opportunities-success?style=flat-square)
 
 </div>
 
