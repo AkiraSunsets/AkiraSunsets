@@ -20,7 +20,7 @@ Sou estudante de **Ciência da Computação** no Centro Universitário FAM e atu
 
 | Atributo | Status |
 |----------|--------|
-| **🎯 Missão Atual** | Aprendiz em Soluções Digitais – **Bosch Brasil** |
+| **🎯 Missão Atual** | Meio oficial em Soluções Digitais – **Bosch Brasil** |
 | **👾 Classe** | Desenvolvedora Front-End \| UX/UI Designer |
 | **📚 Level** | Bacharelanda em Ciência da Computação – **FAM** (2025–2028) |
 | **🏆 Experiência** | Técnica em Informática, Suporte Técnico e Desenvolvimento de Sistemas |
